@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
+  "notes": "- Dodano system sprawdzania aktualizacji\n- Dodano pobieranie nowej wersji z GitHuba\n- Dodano automatyczne podmienianie pliku .exe po restarcie",
+  "required": false
+}
