@@ -1,9 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "notes": "- Dodana sekcja narzędzia, w niej Ceny Vape porównywarka, oraz dodano ciemny motyw.",
   "required": false
 }
+
 
 
 
