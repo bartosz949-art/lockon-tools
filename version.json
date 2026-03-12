@@ -1,9 +1,10 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "notes": "- Poprawiony skrót aplikacji",
   "required": false
 }
+
 
 
 
