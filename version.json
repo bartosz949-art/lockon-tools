@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "notes": "Dadnie zapytanie o imię przy rozpoczęciu dnia (do nazwy), ppprawiono zamknięcie dnia, wykrywanie nazw plików, updater i stabilność działania.",
+  "notes": "Dodanie dodatkowego odbiorcy przy zamykaniu dnia.",
   "required": false
 }
