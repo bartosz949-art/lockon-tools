@@ -4,6 +4,6 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "notes": "Dodanie dodatkowego odbiorcy przy zamykaniu dnia.",
   "required": false,
-  "order_panel_version": "0.1.1",
+  "order_panel_version": "0.1.2",
   "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip"
 }
