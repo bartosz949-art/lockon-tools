@@ -2,11 +2,22 @@
   "promotions": [
     {
       "id": "sic-salt-ck-example",
-      "active": true,
+      "active": false,
       "title": "Promocja hurtowni",
       "message": "Rozważ zamówienie SIC Salt na CK Complex. Trwa promocja 10+1 gratis.",
       "brand": "SIC",
       "supplier": "CK COMPLEX",
+      "category": "LIQUIDY",
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-30"
+    },
+    {
+      "id": "salt-alfi-2026-04",
+      "active": false,
+      "title": "Promocja Alfivape",
+      "message": "Na Alfivape obowiązuje promocja na tę markę.",
+      "brand": "SIC",
+      "supplier": "ALFIVAPE",
       "category": "LIQUIDY",
       "start_date": "2026-04-15",
       "end_date": "2026-04-30"
