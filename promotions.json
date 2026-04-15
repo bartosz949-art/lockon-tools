@@ -2,7 +2,7 @@
   "promotions": [
     {
       "id": "sic-salt-ck-example",
-      "active": false,
+      "active": true,
       "title": "Promocja hurtowni",
       "message": "Rozważ zamówienie SIC Salt na CK Complex. Trwa promocja 10+1 gratis.",
       "brand": "SIC Salt",
