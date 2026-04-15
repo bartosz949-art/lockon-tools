@@ -1,0 +1,15 @@
+{
+  "promotions": [
+    {
+      "id": "sic-salt-ck-example",
+      "active": false,
+      "title": "Promocja hurtowni",
+      "message": "Rozważ zamówienie SIC Salt na CK Complex. Trwa promocja 10+1 gratis.",
+      "brand": "SIC Salt",
+      "supplier": "CK COMPLEX",
+      "category": "LIQUIDY",
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-30"
+    }
+  ]
+}
