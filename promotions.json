@@ -4,9 +4,20 @@
       "id": "sic-salt-ck-example",
       "active": true,
       "title": "Promocja hurtowni",
+      "message": "Rozważ zamówienie SIC Salt na CK Complex. Trwa promocja 10+1 gratis. Promocja najprawdopodobniej do majówki",
+      "brand": "SIC",
+      "supplier": "CK COMPLEX"
+      "category": "LIQUIDY",
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-30"
+    },
+    {
+      "id": "sic-salt-ck-example",
+      "active": true,
+      "title": "Promocja hurtowni",
       "message": "Rozważ zamówienie SIC Salt na CK Complex albo Vaperzy. Trwa promocja 10+1 gratis. Promocja najprawdopodobniej do majówki",
       "brand": "SIC",
-      "supplier": "CK COMPLEX, VAPERZY"
+      "supplier": "VAPERZY"
       "category": "LIQUIDY",
       "start_date": "2026-04-15",
       "end_date": "2026-04-30"
