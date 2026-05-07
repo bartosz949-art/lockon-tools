@@ -1,8 +1,8 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.16",
   "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "notes": "Dodanie dodatkowego odbiorcy przy zamykaniu dnia.",
+  "notes": "Doanie dodatkowego Fallback SMTP wysylki.",
   "required": false,
   "order_panel_version": "0.2.5",
   "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip"
