@@ -4,6 +4,6 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "notes": "Doanie dodatkowego Fallback SMTP wysylki.",
   "required": false,
-  "order_panel_version": "0.2.8",
+  "order_panel_version": "0.2.9",
   "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip"
 }
