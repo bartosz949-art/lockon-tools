@@ -1,8 +1,8 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.21",
   "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "notes": "Doanie dodatkowego Fallback SMTP wysylki.",
+  "notes": "Poprwa workflow, dodanie paska narzędziowego, szybki notatnik i kilka innych usprawnień",
   "required": false,
   "order_panel_version":  "0.3.2",
   "order_panel_download_url":  "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
