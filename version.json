@@ -4,7 +4,7 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "notes": "Poprwa workflow, dodanie paska narzędziowego, szybki notatnik i kilka innych usprawnień",
   "required": false,
-  "order_panel_version":  "0.3.3",
+  "order_panel_version":  "0.3.5",
   "order_panel_download_url":  "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
   "order_panel_notes":  "Poprawa podsumowania, Usprawnienia/optymalizacja, poprawione przeliczanie, stany można teraz przeklikiwać enterem, nie trzeba myszką."
 }
