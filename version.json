@@ -1,10 +1,10 @@
 {
-  "version": "1.1.30",
+  "version": "1.1.31",
   "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "notes": "Poprwa workflow, dodanie paska narzędziowego, szybki notatnik i kilka innych usprawnień",
+  "notes": "Naprawiono uruchamianie Panelu zamówień i dodano diagnostykę błędów startu",
   "required": false,
-  "order_panel_version":  "0.3.7",
-  "order_panel_download_url":  "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
-  "order_panel_notes":  "Poprawa podsumowania, Usprawnienia/optymalizacja, poprawione przeliczanie, stany można teraz przeklikiwać enterem, nie trzeba myszką."
+  "order_panel_version": "0.3.9",
+  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
+  "order_panel_notes": "Poprawiono wykrywanie zalogowania Alfivape na wariantach strony z ukrytym formularzem logowania"
 }
