@@ -1,8 +1,8 @@
 {
-  "version": "1.1.32",
+  "version": "1.1.33",
   "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "notes": "Nowe narzędzie Wydatki z zestawień instalowane automatycznie jako osobny moduł.",
+  "notes": "Naprawiono aktualizację i uruchamianie Panelu zamówień oraz uproszczono komunikat o braku połączenia.",
   "required": false,
   "order_panel_version": "0.3.9",
   "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
@@ -11,7 +11,7 @@
     {
       "id": "wydatki_zestawienia",
       "name": "WydatkiZestawienia",
-      "version": "1.1.32",
+      "version": "1.1.33",
       "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/WydatkiZestawienia.exe",
       "sha256": "eaf99e0cd0cc1a8f970258e2827b17c255b5c4b17733e32855fcbd6e5eddff49",
       "destination": "modules/WydatkiZestawienia/WydatkiZestawienia.exe"
