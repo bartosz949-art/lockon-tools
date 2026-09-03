@@ -4,7 +4,7 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
   "notes": "Naprawiono aktualizację i uruchamianie Panelu zamówień oraz uproszczono komunikat o braku połączenia.",
   "required": false,
-  "order_panel_version": "0.3.9",
+  "order_panel_version": "0.4.0",
   "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
   "order_panel_notes": "Poprawiono wykrywanie zalogowania Alfivape na wariantach strony z ukrytym formularzem logowania",
   "modules": [
