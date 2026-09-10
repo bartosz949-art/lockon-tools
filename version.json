@@ -1,20 +1,28 @@
 {
-  "version": "1.1.33",
-  "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonTools.exe",
-  "notes": "Naprawiono aktualizację i uruchamianie Panelu zamówień oraz uproszczono komunikat o braku połączenia.",
+  "version": "1.1.34",
+  "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.34/LockonTools.exe",
+  "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.34/LockonTools.exe",
+  "notes": "Aktualizacja LockOnTool",
   "required": false,
   "order_panel_version": "0.4.2",
-  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/LockonOrderPanel.zip",
+  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.2/LockonOrderPanel.zip",
   "order_panel_notes": "Poprawiono wykrywanie zalogowania Alfivape na wariantach strony z ukrytym formularzem logowania",
   "modules": [
     {
       "id": "wydatki_zestawienia",
       "name": "WydatkiZestawienia",
-      "version": "1.1.33",
-      "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/latest/download/WydatkiZestawienia.exe",
+      "version": "1.1.34",
+      "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.34/WydatkiZestawienia.exe",
       "sha256": "eaf99e0cd0cc1a8f970258e2827b17c255b5c4b17733e32855fcbd6e5eddff49",
       "destination": "modules/WydatkiZestawienia/WydatkiZestawienia.exe"
+    },
+    {
+      "id": "vademecum",
+      "name": "VADEMECUM SPRZEDAWCY LOCKON",
+      "version": "1.1.34",
+      "download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.34/VADEMECUM%20SPRZEDAWCY%20LOCKON.pdf",
+      "sha256": "22e41d538a283576f7141ad5f9ba759f56427ca1dadfff7ee5080e4318bef29d",
+      "destination": "VADEMECUM SPRZEDAWCY LOCKON.pdf"
     }
   ]
 }
