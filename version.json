@@ -4,9 +4,9 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.35/LockonTools.exe",
   "notes": "Generator etykiet: podpowiedzi pol, listy RAM i ROM z recznym wpisywaniem, poprawne jednostki, powtarzanie modelu i cofanie bez utraty pozniejszych wpisow.",
   "required": false,
-  "order_panel_version": "0.4.4",
-  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.4/LockonOrderPanel.zip",
-  "order_panel_notes": "Poprawa TabascoVape",
+  "order_panel_version": "0.4.5",
+  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.5/LockonOrderPanel.zip",
+  "order_panel_notes": "Poprawa Tabasco ciag dalszy",
   "modules": [
     {
       "id": "wydatki_zestawienia",
