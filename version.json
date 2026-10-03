@@ -4,8 +4,8 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.35/LockonTools.exe",
   "notes": "Generator etykiet: podpowiedzi pol, listy RAM i ROM z recznym wpisywaniem, poprawne jednostki, powtarzanie modelu i cofanie bez utraty pozniejszych wpisow.",
   "required": false,
-  "order_panel_version": "0.4.7",
-  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.7/LockonOrderPanel.zip",
+  "order_panel_version": "0.4.8",
+  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.8/LockonOrderPanel.zip",
   "order_panel_notes": "Aktualizacja LockOnOrderPanel",
   "modules": [
     {
