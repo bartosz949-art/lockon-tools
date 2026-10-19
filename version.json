@@ -4,8 +4,8 @@
   "exe_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v1.1.45/LockonTools.exe",
   "notes": "Aktualizacja LockOnTool",
   "required": false,
-  "order_panel_version": "0.4.18",
-  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.18/LockonOrderPanel.zip",
+  "order_panel_version": "0.4.19",
+  "order_panel_download_url": "https://github.com/bartosz949-art/lockon-tools/releases/download/v0.4.19/LockonOrderPanel.zip",
   "order_panel_notes": "Aktualizacja LockOnOrderPanel",
   "modules": [
     {
